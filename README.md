@@ -1,2 +1,2 @@
 # OpenWeatherCSS
-CSS design of Weather widget
+HTML & CSS design of Weather widget
